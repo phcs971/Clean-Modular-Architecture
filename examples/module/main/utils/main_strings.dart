@@ -1,0 +1,3 @@
+class MainStrings {
+  MainStrings._();
+}

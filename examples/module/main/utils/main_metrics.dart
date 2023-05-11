@@ -1,0 +1,3 @@
+class MainMetrics {
+  MainMetrics._();
+}

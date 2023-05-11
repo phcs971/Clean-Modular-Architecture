@@ -1,0 +1,9 @@
+bricks:
+  page:
+    path: bricks/page
+  widget:
+    path: bricks/widget
+  usecase:
+    path: bricks/usecase
+  module:
+    path: bricks/module

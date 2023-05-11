@@ -1,0 +1,13 @@
+name: usecase
+description: Usecase brick for CMA
+
+version: 1.0.0+1
+
+environment:
+  mason: ">=0.1.0-dev.40 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: Usecase name
+    prompt: "Usecase name:"

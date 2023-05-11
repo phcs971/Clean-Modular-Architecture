@@ -1,0 +1,13 @@
+name: module
+description: Module brick for CMA
+
+version: 1.0.0+1
+
+environment:
+  mason: ">=0.1.0-dev.40 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: Module name
+    prompt: "Module name:"

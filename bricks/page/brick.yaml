@@ -1,0 +1,18 @@
+name: page
+description: Page brick for CMA
+
+version: 1.0.0+1
+
+environment:
+  mason: ">=0.1.0-dev.40 <0.1.0"
+
+vars:
+  page:
+    type: string
+    description: Page name
+    prompt: "Page name:"
+  hasStore:
+    type: boolean
+    description: Whether the page has a store
+    default: false
+    prompt: "Does the page have a store (same name and same directory)?"
